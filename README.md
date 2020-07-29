@@ -1,4 +1,6 @@
-### Hi there 👋
+### Rilwan Yusuf
+I'm a Front-End web developer from Kano, Nigeria, I'm comfortable with HTML, CSS, Bootstrap, TailwindCSS and Javascript. However, I'm currently learning ReactJs and GraphQL.
+I can be reach on [Twitter](https://twitter.com/ryusufu).
 
 <!--
 **ryusufu/ryusufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
